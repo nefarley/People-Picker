@@ -15,7 +15,7 @@ In the Default section, add a variable name. It'll throw an error message until 
 Updating the Hint Text field with content. I enjoy Star-Trek, so IYKYK...
 <img width="1411" height="132" alt="image" src="https://github.com/user-attachments/assets/66cb5d9a-59b1-49fb-8c58-ab961054abe5" />
 
-Add two buttons. One called Search Users and another called Clear Info.
+Add two buttons. One called Search Users and another called Clear Info.<br>
 <img width="467" height="124" alt="image" src="https://github.com/user-attachments/assets/209790f6-5c99-4f2c-9bc4-ee25bdb1398a" />
 <br>*Colorway can be anything you want.*
 
