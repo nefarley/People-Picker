@@ -24,5 +24,14 @@ A quick overview so far<br>
 
 Next, we're going to create the search<br>
 <img width="1305" height="743" alt="image" src="https://github.com/user-attachments/assets/2793f222-8219-4112-9434-8557880a6ec2" /><br>
+Before we create the search container, update the OnSelect property on the People Search Button with the following:<br>
+"UpdateContext({
+    teamSearch:"",
+    empSearch: true
+});" <br>
+ #*Background:# "The UpdateContext function to create a context variable, which temporarily holds a piece of information, such as the number of times the user has selected a button or the result of a data operation." - source: <a href="https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-updatecontext" target=
+"_blank">UpdateContext Property</a><br>
+<img width="1896" height="373" alt="image" src="https://github.com/user-attachments/assets/a8f07843-eea5-44c2-9743-d4618f22dbb7" /><br>
+
 
 
