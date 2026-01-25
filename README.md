@@ -19,10 +19,10 @@ Add two buttons. One called Search Users and another called Clear Info.<br>
 <img width="467" height="124" alt="image" src="https://github.com/user-attachments/assets/209790f6-5c99-4f2c-9bc4-ee25bdb1398a" />
 <br>*Colorway can be anything you want.*
 
-A quick overview so far
-<img width="833" height="478" alt="image" src="https://github.com/user-attachments/assets/7fa737e9-f84c-4680-976d-69936418c421" />
+A quick overview so far<br>
+<img width="833" height="478" alt="image" src="https://github.com/user-attachments/assets/7fa737e9-f84c-4680-976d-69936418c421" /><br>
 
-Next, we're going to create the search
+Next, we're going to create the search<br>
+<img width="1305" height="743" alt="image" src="https://github.com/user-attachments/assets/2793f222-8219-4112-9434-8557880a6ec2" /><br>
 
-<img width="1305" height="743" alt="image" src="https://github.com/user-attachments/assets/2793f222-8219-4112-9434-8557880a6ec2" />
 
