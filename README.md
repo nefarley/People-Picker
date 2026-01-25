@@ -18,7 +18,8 @@ Updating the Hint Text field with content. I enjoy Star-Trek, so IYKYK...
 Add two buttons. One called Search Users and another called Clear Info.
 
 <img width="467" height="124" alt="image" src="https://github.com/user-attachments/assets/209790f6-5c99-4f2c-9bc4-ee25bdb1398a" />
-  *Colorway can be anything you want.*
+
+*Colorway can be anything you want.*
 
 A quick overview so far
 
