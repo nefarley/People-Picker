@@ -37,6 +37,7 @@ With the same energy, update the Clear Info OnSelect button with: <br>
 <i>UpdateContext({employeeName:""});</i>
 <img width="1896" height="339" alt="image" src="https://github.com/user-attachments/assets/c39cfe91-b6ba-4410-8c6c-d37ffd89ec47" /><br>
 
-
+Next we'll setup the search functionality.<br>
+<img width="1303" height="742" alt="image" src="https://github.com/user-attachments/assets/fd7b2536-f140-49fc-8e16-e4185f86a58c" /><br>
 
 
