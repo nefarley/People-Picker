@@ -40,4 +40,11 @@ With the same energy, update the Clear Info OnSelect button with: <br>
 Next we'll setup the search functionality.<br>
 <img width="1303" height="742" alt="image" src="https://github.com/user-attachments/assets/fd7b2536-f140-49fc-8e16-e4185f86a58c" /><br>
 
+Create a container and give it a name that makes sense.<br>
+<img width="469" height="602" alt="image" src="https://github.com/user-attachments/assets/6f64a644-e4b8-4a8b-a630-5cff249d7de5" /><br>
+
+Create a verticle gallery, along with some text fields and a couple of icons.<br>
+<img width="1892" height="873" alt="image" src="https://github.com/user-attachments/assets/bc51001b-4404-4faf-8e41-b5d7d8ce4608" /><br>
+
+
 
